@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Sabin</h1>
 
 <p align="center">
+  <img src="https://tenor.com/bLQgK.gif" alt="Pixel Cat Banner" width="100%">
+</p>
+
+<p align="center">
   <em>Machine Learning Developer | Low-level Programmer | Audio Engineering Enthusiast</em>
 </p>
 
