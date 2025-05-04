@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sabin</h1>
 
-<!--
-**sabinhansa/sabinhansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Machine Learning Developer | Low-level Programmer | Audio Engineering Enthusiast</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- I work with Python and C to build efficient and practical solutions for machine learning and systems programming problems.
+- I’m particularly interested in the intersection of AI, audio, and user interaction — from predictive models to custom tooling.
+- Over the years, I’ve developed projects across domains like audio plugin development, classical ML pipelines, and game simulation.
+
+---
+
+### 🛠️ Core Skills
+
+- **Languages:** Python, C, JavaScript
+- **ML & Data:** Scikit-learn, Pandas, NumPy, PyTorch
+- **Audio:** DSP, sample analysis, plugin prototyping
+- **Tools:** Git, Firebase, Unreal Engine, FL Studio
+- **Systems:** Linux, networking protocols, low-level optimization
+
+---
+
+### 🎯 Outside of Code
+
+- 🏀 I played competitive basketball for 10 years, which shaped how I approach teamwork and long-term problem-solving.
+- 🎹 I studied classical piano for over a decade, gaining a strong sense of structure, discipline, and pattern recognition — all useful in development.
+
